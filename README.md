@@ -1,6 +1,8 @@
 # Coronavirus Slackbot+Telegram App
 A Slackbot+Telegram bot that gives latest updates about confirmed COVID-19 cases in India, pulling the information from the website of the Indian Ministry of Health and Family Welfare (https://www.mohfw.gov.in/)
 
+![Jokes SlackBot App](https://github.com/Kaustav96/Coronavirus-India-Tracker/blob/master/corona1.PNG)
+
 ## Features
 - Sit back and relax - the coronavirus updates will come to you.
 - Get Slack notifications (picture below)
