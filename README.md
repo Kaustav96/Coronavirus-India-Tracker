@@ -40,4 +40,3 @@ touch auth.py
 ```python
 DEFAULT_SLACK_WEBHOOK = 'https://hooks.slack.com/services/<your custome webhook url>'
 ```
-- To schedule a job use Crontab or python schedule library.
